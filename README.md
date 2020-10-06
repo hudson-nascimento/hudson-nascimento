@@ -7,8 +7,12 @@
 I'm a brazilian software developer, is a pleasure see you here.
 Find additional information about what I do and how contact me.
 
-#### Find:
+ - 🔭 I’m currently working as a Dev at [CooperSystem](www.coopersystem.com.br)
+ - 💜 I love to work with .NET and C#, but like chalenges in Python and Node too.
+
+#### Find me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=http://bit.ly/linkedinhudsonnascimento/)](http://bit.ly/linkedinhudsonnascimento)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@gbbigardi)](https://medium.com/@gbbigardi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contato.hudsonnascimento@gmail.com)](mailto:contato.hudsonnascimento@gmail.com)
 
 ## Skills
