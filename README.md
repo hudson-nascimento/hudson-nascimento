@@ -5,8 +5,7 @@
 -->
 
 I'm a brazilian software developer, is a pleasure see you here.
-
-Find additional information about what I do, other things in my career and how contact me.
+Find additional information about what I do and how contact me.
 
 #### Find:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=http://bit.ly/linkedinhudsonnascimento/)](http://bit.ly/linkedinhudsonnascimento)
@@ -15,17 +14,14 @@ Find additional information about what I do, other things in my career and how c
 ## Skills
 
 #### Backend
-  - [x] C# (.NET Framework, ASP.Net, ASP.Net Core);
+  - [x] C# (.Net Framework, ASP.Net, ASP.Net Core);
   - [ ] Python (Django) 50% loading...
   
 #### Frontend
-  - [x] Vue;
   - [x] Angular;
   - [x] Bootstrap;
+  - [x] CSS;
   - [ ] Flutter loading...
   - [ ] React loading...
-  
-#### Human
-  - [x] Communicative;
-  - [x] Dedicated;
-  - [x] studious.
+  - [x] Vue;
+
