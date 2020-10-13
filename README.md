@@ -12,7 +12,7 @@ Find additional information about what I do and how contact me.
 
 #### Find me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=http://bit.ly/linkedinhudsonnascimento/)](http://bit.ly/linkedinhudsonnascimento)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@gbbigardi)](https://medium.com/@gbbigardi)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@contato.hudsonnascimento](https://medium.com/@contato.hudsonnascimento
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contato.hudsonnascimento@gmail.com)](mailto:contato.hudsonnascimento@gmail.com)
 
 ## Skills
