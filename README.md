@@ -3,7 +3,7 @@
 I'm a brazilian software developer, is a pleasure see you here.
 Find additional information about what I do and how contact me.
 
- - I’m currently working as a Dev at [CooperSystem](www.coopersystem.com.br)
+ - I’m currently working as a Dev at Home.
  - I love to work with .NET and C#, but like chalenges in Python and Node too.
 
 #### Find me:
